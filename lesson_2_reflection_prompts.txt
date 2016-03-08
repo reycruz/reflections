@@ -30,3 +30,4 @@ cause it works with commits.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 in automatic merging the work goes faster but you have less control.
+El pollo loco sabe muy delicioooso!
